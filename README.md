@@ -1,4 +1,4 @@
-Welcome to my Github profile :upside_down:
+Welcome to my Github profile :octocat:
 
 Visit [my Github page](https://quickblink.github.io/) for an overview over my highlight projects!
 
